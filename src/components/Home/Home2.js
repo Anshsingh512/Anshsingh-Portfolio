@@ -4,7 +4,6 @@ import myImg from "../../Assets/avatar.svg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -28,9 +27,9 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interests are building new &nbsp;
+              My Field Of Interests Are Building New &nbsp;
               <i>
-                <b className="purple">Web Technologies and Innovative Products </b> and
+                <b className="purple">Web Technologies, Innovative Products </b> a
                 also in areas related to{" "}
                 <b className="purple">
                   Ui/Ux Designing.
@@ -38,7 +37,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              Whenever needed, I also apply my passion for developing products
+              Whenever appropriate, I also apply my passion for developing products
               with <b className="purple">Node.js </b> and
               <i>
                 <b className="purple">

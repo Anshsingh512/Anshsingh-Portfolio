@@ -13,17 +13,17 @@ function AboutCard() {
             <br />
             I Am Thrilled For Being Enrolled In Software Engineering .
             <br />
-            I have pursuing B.Tech ( Computer Science & Engineering ) from A.P.J Abdul Kalam Technical University 
+            I'M pursuing B.Tech (Computer Science & Engineering) from A.P.J Abdul Kalam Technical University.
             <br />
             <br />
-            Apart from Coding & Brainstorming, some other activities that I love to do !
+            Apart from Coding & Brainstorming, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Enriching My Skills Set .
             </li>
             <li className="about-activity">
-              <ImPointRight /> Boosting My Innovations And Ideology .
+              <ImPointRight /> Boosting My Innovations And Ideologies .
             </li>
             <li className="about-activity">
               <ImPointRight /> Collaborating With Tech Enthusiasts .
